@@ -27,6 +27,7 @@ Masters student with a passion for digital forensics and data analysis, seeking 
     <img src="https://img.shields.io/badge/-Volatility-59A0D3?&style=for-the-badge&logo=Volatility&logoColor=white" />
     <img src="https://img.shields.io/badge/-Magnet%20AXIOM-6A4C98?&style=for-the-badge&logo=MagnetForensics&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cellebrite-005F6D?&style=for-the-badge&logo=Cellebrite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-EnCase-FF7F32?&style=for-the-badge&logo=OpenJDK&logoColor=white" />
     <img src="https://img.shields.io/badge/-Eric%20Zimmerman%20Tools-F0A800?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-The%20Sleuth%20Kit-57A5A5?&style=for-the-badge&logo=TheSleuthKit&logoColor=white" />
 </div>
