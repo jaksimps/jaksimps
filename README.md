@@ -49,22 +49,20 @@ Masters student with a passion for digital forensics and data analysis, seeking 
 
 #### **SIEM**  
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-FF6600?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 ### **Certifications**  
 <div>
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Azure%20Fundamentals-4D4D4D?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Alteryx%20Designer%20Core-4D4D4D?&style=for-the-badge&logo=Alteryx&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk%20Core%20Certified%20User-4D4D4D?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure%20Fundamentals-00A4EF?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Alteryx%20Designer%20Core-003C6C?&style=for-the-badge&logo=Alteryx&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk%20Core%20Certified%20User-FF6600?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cisco%20Data%20Analytics%20Essentials-4D4D4D?&style=for-the-badge&logo=Cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-DataCamp%20SQL%20Associate-4D4D4D?&style=for-the-badge&logo=DataCamp&logoColor=white" />
-    <img src="https://img.shields.io/badge/-DataCamp%20Data%20Literacy%20Professional-4D4D4D?&style=for-the-badge&logo=DataCamp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-DataCamp%20SQL%20Associate-2D9F39?&style=for-the-badge&logo=DataCamp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-DataCamp%20Data%20Literacy%20Professional-2D9F39?&style=for-the-badge&logo=DataCamp&logoColor=white" />
 </div>
-
-
 
 </div>
 
