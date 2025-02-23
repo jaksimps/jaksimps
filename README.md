@@ -18,7 +18,7 @@ Masters student with a passion for digital forensics and data analysis, seeking 
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-### **Tools**  
+### **Tools**
 
 #### **Digital Forensics**  
 <div>
@@ -34,12 +34,12 @@ Masters student with a passion for digital forensics and data analysis, seeking 
 #### **Network**  
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tcpdump-4D4D4D?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tcpdump-4D4D4D?&style=for-the-badge&logo=Tcpdump&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-004A80?&style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-4D4D4D?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-4D4D4D?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Snort-CC0000?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Netcat-4D4D4D?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-4D4D4D?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-4D4D4D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-CC0000?&style=for-the-badge&logo=Snort&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Netcat-4D4D4D?&style=for-the-badge&logo=Netcat&logoColor=white" />
 </div>
 
 #### **Endpoint**  
