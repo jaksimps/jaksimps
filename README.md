@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jake Simpson
+# Hi there 👋, I'm Jake 
 
 Welcome to my GitHub profile! I'm a **Cybersecurity Professional** with a passion for security, investigating cyber incidents, and leveraging data-driven insights for **threat intelligence**. Here's a bit about me and what I do:
 
