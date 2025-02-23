@@ -9,16 +9,23 @@ Masters student with a passion for digital forensics and data analysis, seeking 
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Link                       |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/jaksimps/Cybersecurity">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Cybersecurity                                 | <a href="https://github.com/jaksimps/Cybersecurity">Explore Cybersecurity Projects</a>|
+|Data Analysis                                  | <a href="https://github.com/jaksimps/Data-Analysis">Explore My Data Analysis Work</a>|
+| Research Papers                               | <a href="https://github.com/jaksimps/Papers">Read my work</a>|
+
 
 ### **Tools**
+
+#### **Data Analysis**  
+<div>
+    <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Excel-217346?&style=for-the-badge&logo=microsoft-office&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=Tableau&logoColor=white" />
+</div>
+
 
 #### **Digital Forensics**  
 <div>
@@ -67,6 +74,6 @@ Masters student with a passion for digital forensics and data analysis, seeking 
 
 </div>
 
-## Projects
+## Recent Projects
 - Detection Lab
 - SOC Automation Project
