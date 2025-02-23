@@ -8,7 +8,6 @@ I am a graduate student at Purdue with a profound interest in technology and a d
 Masters student with a passion for digital forensics and data analysis, seeking opportunities to apply skills in cybersecurity, incident response, and threat intelligence.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -19,21 +18,20 @@ Masters student with a passion for digital forensics and data analysis, seeking 
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+### **Tools**  
 
-### Digital Forensics 
+#### **Digital Forensics**  
 <div>
-    <img src="https://img.shields.io/badge/-Autopsy-4D4D4D?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-FTK-4D4D4D?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Volatility-4D4D4D?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Magnet%20AXIOM-4D4D4D?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cellebrite-4D4D4D?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Eric_Zimmerman_Tools-4D4D4D?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-The_Sleuth_Kit-4D4D4D?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Autopsy-4D4D4D?&style=for-the-badge&logo=Autopsy&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FTK-0033A0?&style=for-the-badge&logo=AccessData&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Volatility-59A0D3?&style=for-the-badge&logo=Volatility&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Magnet%20AXIOM-6A4C98?&style=for-the-badge&logo=MagnetForensics&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cellebrite-005F6D?&style=for-the-badge&logo=Cellebrite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Eric%20Zimmerman%20Tools-F0A800?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-The%20Sleuth%20Kit-57A5A5?&style=for-the-badge&logo=TheSleuthKit&logoColor=white" />
 </div>
 
-### Network
+#### **Network**  
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Tcpdump-4D4D4D?&style=for-the-badge&logoColor=white" />
@@ -44,28 +42,28 @@ Masters student with a passion for digital forensics and data analysis, seeking 
     <img src="https://img.shields.io/badge/-Netcat-4D4D4D?&style=for-the-badge&logoColor=white" />
 </div>
 
-
-### Endpoint
+#### **Endpoint**  
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
-### SIEM
+#### **SIEM**  
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+### **Certifications**  
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Azure%20Fundamentals-4D4D4D?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-<img src="https://img.shields.io/badge/-Alteryx%20Designer%20Core-4D4D4D?&style=for-the-badge&logo=Alteryx&logoColor=white" />
-<img src="https://img.shields.io/badge/-Splunk%20Core%20Certified%20User-4D4D4D?&style=for-the-badge&logo=Splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/-Cisco%20Data%20Analytics%20Essentials-4D4D4D?&style=for-the-badge&logo=Cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-DataCamp%20SQL%20Associate-4D4D4D?&style=for-the-badge&logo=DataCamp&logoColor=white" />
-<img src="https://img.shields.io/badge/-DataCamp%20Data%20Literacy%20Professional-4D4D4D?&style=for-the-badge&logo=DataCamp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure%20Fundamentals-4D4D4D?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Alteryx%20Designer%20Core-4D4D4D?&style=for-the-badge&logo=Alteryx&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk%20Core%20Certified%20User-4D4D4D?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco%20Data%20Analytics%20Essentials-4D4D4D?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-DataCamp%20SQL%20Associate-4D4D4D?&style=for-the-badge&logo=DataCamp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-DataCamp%20Data%20Literacy%20Professional-4D4D4D?&style=for-the-badge&logo=DataCamp&logoColor=white" />
+</div>
+
 
 
 </div>
